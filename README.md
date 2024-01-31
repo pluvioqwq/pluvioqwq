@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - 😄 qwqful
 - 🧑‍💻 Cyber Security Enthusiast
 - 🔭 CTF player
-- 
-  
+
 
 ## Blogs
 - 💬 my blogs: [pluvioqwq](https://pluvioqwq.github.io)
