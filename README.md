@@ -13,11 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm qwqful</h1>
+<h1 align="center">Hi 👋, I'm ...</h1>
 
 ## About Me
 
-- 🔭 Ctf Enthusiast 
-- 💬 My blogs: [pluvioqwq](https://pluvioqwq.github.io)
+- 😄 qwqful
+- 🧑‍💻 Cyber Security Enthusiast
+- 🔭 CTF player
+- 
+  
+
+## Blogs
+- 💬 my blogs: [pluvioqwq](https://pluvioqwq.github.io)
 
 ![pluvioqwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluvioqwq&show_icons=true&theme=radical)
