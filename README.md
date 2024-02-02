@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ## Overview
 ![pluvioqwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluvioqwq&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pluvioqwq&size_weight=0.7&count_weight=0.5)
+
