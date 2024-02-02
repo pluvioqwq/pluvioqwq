@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm ...</h1>
 
 ## About Me
-
 - 😄 qwqful
 - 🧑‍💻 Cyber Security Enthusiast
 - 🔭 CTF player
@@ -25,4 +24,6 @@ Here are some ideas to get you started:
 ## Blogs
 - 💬 my blogs: [pluvioqwq](https://pluvioqwq.github.io)
 
+## Overview
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pluvioqwq&hide_progress=true)
 ![pluvioqwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluvioqwq&show_icons=true&theme=radical)
