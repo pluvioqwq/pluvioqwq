@@ -1,5 +1,6 @@
 <pre align="center">
-<h1><samp>I am qwqful<samp></h1>
+<h1> 
+qwqful</h1>
  ⚡ Programmer   Hacker   Blogger ⚡ 
 </pre>
 
